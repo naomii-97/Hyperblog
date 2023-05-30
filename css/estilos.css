@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: #e62121;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -38,4 +38,11 @@ body
 #container #p2
 {
     color: rgb(110, 15, 218);
+}
+
+#container #p3 
+{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
 }
