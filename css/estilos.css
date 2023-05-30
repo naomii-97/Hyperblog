@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: #e62121;
+=======
+    color: rgb(5, 29, 238);
+>>>>>>> 232bca5 (modifiqe la cabecera, y el color principar)
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
